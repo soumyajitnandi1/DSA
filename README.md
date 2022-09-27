@@ -1,5 +1,5 @@
 # DSA
-## Create Your Own
+## Create Your Own Code
 <b> Code It Out</b><br>
 Follow the guidelines :<br>
 <li>Upload in respective folder based on critera (DP/GREEDY/BACKTRACKING...). If folder doesn't exist create New.</li>
