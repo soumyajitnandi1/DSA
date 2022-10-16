@@ -7,4 +7,4 @@ Follow the guidelines :<br>
 <li>Upload the code in any language (Preferably in CPP/C/PYTHON/JAVA/CPP/C).</li>
 <li>If possible create a brief description of your implementation.</li>
 <br>
-<i>Thank You for your contribution.</i>
+<i>Thank You for your contribution and keep contributing .</i>
