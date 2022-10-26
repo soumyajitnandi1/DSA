@@ -1,0 +1,27 @@
+﻿class Solution:
+    def findWords(self, words: List[str]) -> List[str]:
+        l = []
+        for i in words:
+            if keyWords(i)==1:
+                l.append(i)
+        return l
+        
+def keyWords(S):
+    s = S.lower()
+    f1 = 0
+    f2 = 0
+    f3 = 0
+    for i in s:
+        if i not in "qwertyuiop":
+            f1 = 1
+            break
+    for i in s:
+        if i not in "asdfghjkl":
+            f2 = 1
+            break
+    for i in s:
+        if i not in "zxcvbnm":
+            f3 = 1
+            break
+    if f1 == 0 or f2 == 0 or f3 == 0:
+        return 1
