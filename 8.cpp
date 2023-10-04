@@ -1,6 +1,8 @@
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
+
+//IO
 int main()
 {
 	char s[30];
