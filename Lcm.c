@@ -1,3 +1,4 @@
+#ok
 #include <stdio.h>
 
 int main() {
