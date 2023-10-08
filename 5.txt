@@ -1,3 +1,4 @@
+#OK
 def sna(list1):
     list2=[]
     for i in list1:
