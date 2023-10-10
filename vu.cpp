@@ -1,3 +1,4 @@
+#ok
 #include<stdio.h>
 void fu(int,int);
 int main()
